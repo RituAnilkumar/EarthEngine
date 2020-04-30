@@ -1,5 +1,7 @@
-# EarthEngine
+# Tutorials on Google Earth Engine
 This is a set of tutorials using the Earth Engine Python and JavaScript API. It is presently still being updated and modified. 
-For anyone interested in using these tutorials, feel free to do so. Many of these have been prepared using several references available 
-at the Earth Engine forum, the example codes on the Earth Engine page as well as examples by N Clinton, N Gorelick and G Dochyts. 
-Additional referencing and improvements will be undertaken shortly.
+For anyone interested in using these tutorials, feel free to do so. Many of these have been prepared using several references available at the Earth Engine forum, the example codes on the Earth Engine page as well as examples by N Clinton, N Gorelick, Qiusheng Wu and G Dochyts. 
+Additional referencing and improvements will be undertaken shortly. Presently, there are three files:
+* A presentation on Earth Engine using Materials heavily derived from N Clinton, N Gorelick and G Dochyts with links to many of their works.
+* Exercise 1 is aimed at simply accessing imagery and displaying them on a map. We use the [MODIS Vegetation Indices product](https://lpdaac.usgs.gov/documents/103/MOD13_User_Guide_V6.pdf). We explore a variety of the map tools such as the [IPython Display](https://ipython.readthedocs.io/en/stable/api/generated/IPython.display.html), [Folium](https://python-visualization.github.io/folium/quickstart.html), [geemap](https://github.com/giswqs/geemap) and the [Earth Engine Plugin for QGIS](https://github.com/gee-community/qgis-earthengine-plugin)
+* Exercise 2 os far more detailed and will begin a proper Earth Engine Experience. We will access imagery([Sentinel 2](https://sentinel.esa.int/web/sentinel/missions/sentinel-2)), filter it based on our Area of Interest (AOI) and date range of our interest. We will also learn to visualize the multispectral data. Next, we will create a modified normalized difference water index and threshold it to generate a map of water bodies. 
