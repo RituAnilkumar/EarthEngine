@@ -7,7 +7,7 @@ Additional referencing and improvements will be undertaken shortly. Presently, t
 * Exercise 2 is far more detailed and will begin a proper Earth Engine Experience. We will access imagery([Sentinel 2](https://sentinel.esa.int/web/sentinel/missions/sentinel-2)), filter it based on our Area of Interest (AOI) and date range of our interest and learn to visualize the multispectral data. Next, we will learn how to perform arithmetic operations and create a spectral indices ([modified normalized difference water index](https://www.tandfonline.com/doi/abs/10.1080/01431160600589179?journalCode=tres20)) and perform some basic logical operations and threshold it to generate a map of water bodies. 
 
 Tentative exercises I'm planning to upload are:
-* Exercise 3: Integrating EE with geopandas/numpy
+* Exercise 3: Integrating EE with numpy
 * Exercise 4: Timeseries analysis, charting and animations
 * Exercise 5: Image Classification using existing EE libraries
 * Exercise 6:Integrating with Keras/TensorFlow
