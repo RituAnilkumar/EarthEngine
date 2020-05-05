@@ -10,6 +10,7 @@ Tentative exercises I'm planning to upload are:
 * Exercise 3: Integrating EE with numpy
 * Exercise 4: Timeseries analysis, charting and animations
 * Exercise 5: Image Classification using existing EE libraries
-* Exercise 6:Integrating with Keras/TensorFlow
+* Exercise 6 Image classification using scikitlearn and Earth Engine imagery
+* Exercise 7:Integrating with Keras/TensorFlow
 
 Stay tuned. And hope I beat the procrastination monster.
